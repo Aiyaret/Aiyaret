@@ -1,11 +1,11 @@
 // Paste the code from Firebase 
 var config = {
- apiKey: "AIzaSyDIK2xhA_FswEgON4JVxg4ejZFtVt4Gbho",
-    authDomain: "project-8046557094367350483.firebaseapp.com",
-    databaseURL: "https://project-8046557094367350483.firebaseio.com",
-    projectId: "project-8046557094367350483",
-    storageBucket: "project-8046557094367350483.appspot.com",
-    messagingSenderId: "378146246903",
+ apiKey: "AIzaSyCkbqWEJ4880Qbg0WzXXwRfGo1V5-levag",
+    authDomain: "ncut-745ad.firebaseapp.com",
+    databaseURL: "https://ncut-745ad.firebaseio.com",
+    projectId: "ncut-745ad",
+    storageBucket: "ncut-745ad.appspot.com",
+    messagingSenderId: "470496706427"
    
 };
 firebase.initializeApp(config);
